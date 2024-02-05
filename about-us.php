@@ -297,12 +297,8 @@ $count_course = mysqli_fetch_assoc($result_course)['total'];
                     <p>Iegcode Official</p>
                 </div>
                 <div class="card-tim" data-aos="none">
-                    <img src="assets/sponsor/iegservice.png" alt="" width="254" height="255">
-                    <p>iegservice</p>
-                </div>
-                <div class="card-tim" data-aos="none">
-                    <img src="assets/sponsor/iegcode.png" alt="" width="254" height="255">
-                    <p>Iegcodeid</p>
+                    <img src="assets/sponsor/iegmedia.png" alt="" width="254" height="255">
+                    <p>Iegmedia</p>
                 </div>
             </div>
             <!-- <div class="btn-sect-05-about-us" data-aos="fade-up" data-aos-duration="3000">
